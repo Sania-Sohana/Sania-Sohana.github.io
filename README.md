@@ -1,5 +1,5 @@
-# SANIA AKTER SOHANA
----------------------
+# SANIA AKTER SOHANA&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  ![rsz_1rsz_1image](https://user-images.githubusercontent.com/123105499/226145529-5f914a09-b272-4605-a98f-81f5f30909b9.jpg)
+
 *Current*&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Freshman Year Student**   
 *Position*&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;   Engineeering and Information Technology Department  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   University of Mizzouri at Columbia  
@@ -13,7 +13,8 @@
 *Citizenship*&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;   Bangladeshi  
 
 
-### EDUCATION
+### EDUCATION  
+*****
 *2022-Present*&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;**Bachelor of Science in Information Thechnology**  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Engineering and Information Technology Department  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  University of Missouri at Columbia  
@@ -30,12 +31,23 @@
 
 
 ### SKILLS   
+*****
 *Programming*&emsp;&emsp;&emsp;&emsp;&emsp;   Python, C#  
 *Web Development*&emsp;&emsp;&emsp; Html5, CSS3, JavaScript  
-*Platforms*&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Dos, Unix / Linux  
-*Other*&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   Adobe Audition, Adobe Illustrator, Photoshop, Cataloging, Book binding  
+*Platforms*&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Dos, Unix / Linux  
+*Other*&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;    Adobe Audition, Adobe Illustrator, Photoshop, Cataloging, Book binding  
 
 
 ### EMPLOYMENT   
-*July 2020- July 2021*&emsp;&emsp;&emsp; **Librarian**  
+*****
+*July 2020- July 2021*&emsp;&emsp;&nbsp;   **Librarian**  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Bhawal Mirzapur Public School & College  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Gazipur, Dhaka, Bangladesh  
 
+
+### COURSES I TOOK
+*****
+* **INFOTC-1000**  
+* **BIO-1010**  
+* **INFOTC-2040**  
+* **INFOTC-1610**
