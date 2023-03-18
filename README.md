@@ -1,4 +1,4 @@
-# SANIA AKTER SOHANA&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  ![rsz_1rsz_1image](https://user-images.githubusercontent.com/123105499/226145529-5f914a09-b272-4605-a98f-81f5f30909b9.jpg)
+# SANIA AKTER SOHANA&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  ![Sohana](https://github.com/Sania-Sohana/Sania-Sohana.github.io/blob/a8b4c6d2839c39cb782009b9cbdc40bc541e09aa/Sohana.jpg)
 
 *Current*&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Freshman Year Student**   
 *Position*&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;   Engineeering and Information Technology Department  
