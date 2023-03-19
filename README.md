@@ -55,4 +55,4 @@
 
 ### SOCIAL MEDIA
 *****
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/256px-Instagram_icon.png)](https://www.instagram.com/sania_sohana_25/)
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/256px-Instagram_icon.png)](https://www.instagram.com/sania_sohana_25/) &emsp;&emsp;&emsp; [![Facebook](https://github.com/Sania-Sohana/Sania-Sohana.github.io/blob/40f4beae0dbc41a07df2b56f9ce381d2eb928a62/facebook_icon.png)](https://www.facebook.com/sania.suhana.501/)
