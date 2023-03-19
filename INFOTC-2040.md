@@ -93,4 +93,4 @@ This course presents programming principles and their syntactical representation
 
 
 
-**[BACK TO HOME](https://github.com/Sania-Sohana/Sania-Sohana.github.io/tree/main)**
+**[BACK TO HOME](https://github.com/Sania-Sohana/Sania-Sohana.github.io)**
