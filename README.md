@@ -47,7 +47,7 @@
 
 ### COURSES I TOOK
 *****
-* **[INFOTC-1000](https://github.com/Sania-Sohana/Sania-Sohana.github.io/blob/857c6c278275fe0a5f37997aa269b0861ac32b9d/INFOTC-1000.md)**  
+* **[INFOTC-1000](https://github.com/Sania-Sohana/Sania-Sohana.github.io/blob/main/INFOTC-1000.md)**  
 * **[BIO-1010](https://github.com/Sania-Sohana/Sania-Sohana.github.io/blob/main/BIO-1010.md)**  
 * **INFOTC-2040**  
 * **INFOTC-1610**
