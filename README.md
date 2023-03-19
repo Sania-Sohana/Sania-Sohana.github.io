@@ -51,3 +51,8 @@
 * **[BIO-1010](https://github.com/Sania-Sohana/Sania-Sohana.github.io/blob/main/BIO-1010.md)**  
 * **[INFOTC-2040](https://github.com/Sania-Sohana/Sania-Sohana.github.io/blob/main/INFOTC-2040.md)**  
 * **[INFOTC-1610](https://github.com/Sania-Sohana/Sania-Sohana.github.io/blob/main/INFOTC-1610.md)**
+
+
+### SOCIAL MEDIA
+*****
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/256px-Instagram_icon.png)](https://www.instagram.com/sania_sohana_25/)
