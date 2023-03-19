@@ -47,7 +47,7 @@
 
 ### COURSES I TOOK
 *****
-* **INFOTC-1000**  
+* **[INFOTC-1000]()**  
 * **BIO-1010**  
 * **INFOTC-2040**  
 * **INFOTC-1610**
