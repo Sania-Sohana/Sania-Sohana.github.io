@@ -50,4 +50,4 @@
 * **[INFOTC-1000](https://github.com/Sania-Sohana/Sania-Sohana.github.io/blob/main/INFOTC-1000.md)**  
 * **[BIO-1010](https://github.com/Sania-Sohana/Sania-Sohana.github.io/blob/main/BIO-1010.md)**  
 * **[INFOTC-2040](https://github.com/Sania-Sohana/Sania-Sohana.github.io/blob/main/INFOTC-2040.md)**  
-* **[INFOTC-1610](https://github.com/Sania-Sohana/Sania-Sohana.github.io/blob/main/INFOTC-1610)**
+* **[INFOTC-1610](https://github.com/Sania-Sohana/Sania-Sohana.github.io/blob/main/INFOTC-1610.md)**
