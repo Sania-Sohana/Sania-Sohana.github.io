@@ -11,4 +11,4 @@ digital systems, and software engineering. Students learn to use distributed ver
     print(about_me)      
 
 
-**[BACK TO HOME](https://github.com/Sania-Sohana/Sania-Sohana.github.io/blob/f57f9f0fd4ffffba9b83ff9c54158cc09a2daf9f/README.md)**
+**[BACK TO HOME](https://github.com/Sania-Sohana/Sania-Sohana.github.io/blob/main/README.md)**
